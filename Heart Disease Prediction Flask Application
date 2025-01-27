@@ -1,0 +1,148 @@
+Skip to content
+Navigation Menu
+muhammadadilnaeem
+Code-Alpha-Machine-Learning-Internship-Projects
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+Go to file
+t
+1. Credit Scoring Model
+2. Emotion Recognition From Speech
+3. Disease Predition From Medical Data
+app
+app.py
+dataset
+docs
+jupyter notebook
+machine learning model
+static
+templates
+README.md
+question.txt
+requirements.txt
+task 4.PNG
+4. Digit Recognizer
+.gitignore
+LICENSE
+README.md
+Code-Alpha-Machine-Learning-Internship-Projects
+/3. Disease Predition From Medical Data/
+muhammadadilnaeem
+muhammadadilnaeem
+Update app.py
+8e5e08e
+ · 
+3 months ago
+Code-Alpha-Machine-Learning-Internship-Projects
+/3. Disease Predition From Medical Data/
+Name	Last commit message	Last commit date
+..
+app
+Update app.py
+3 months ago
+dataset
+dataset
+4 months ago
+docs
+document for steps taken to make this project
+4 months ago
+jupyter notebook
+jupyter notebooks for experimentaion with dataset
+4 months ago
+machine learning model
+ml model used for prediction
+4 months ago
+static
+css content
+4 months ago
+templates
+html content of flask webapp
+4 months ago
+README.md
+Update README.md
+4 months ago
+question.txt
+sample data questions
+4 months ago
+requirements.txt
+libraries required to make this project
+4 months ago
+task 4.PNG
+task 4
+4 months ago
+README.md
+❤️ Heart Disease Prediction Flask Application
+task 4
+
+This project was developed during my Machine Learning Internship at CodeAlpha. The Flask web app predicts the likelihood of heart disease based on medical data input by users. By utilizing machine learning techniques, the model provides an accurate prediction of heart disease risk. The project also features a user-friendly interface with clean, professional design elements.
+
+🔗 GitHub Repository
+
+ heart.disease.prediction.mp4 
+🌟 Features
+Flask Web Application 🌐
+Three web pages:
+Home Page 🏠
+Prediction Form Page 📝
+Results Page 📊
+Machine Learning Model 🤖
+Trained on a medical dataset for predicting heart disease.
+Advanced CSS Styling 🎨
+Professional design for an engaging user experience.
+Image Display 🖼️
+Visuals that enhance the interface (e.g., results pages).
+💻 Technologies Used
+Flask for building the web app.
+Python for backend development and machine learning integration.
+Machine Learning Libraries:
+Scikit-learn
+Pandas
+Numpy
+HTML/CSS for front-end design.
+📁 Project Structure
+├── app/
+│   └── app.py           # Flask app entry point
+├── dataset/
+│   └── heart_disease_uci.csv           # Dataset for Machine Learning
+├── docs/
+│   └── Heart-Disease-Prediction.pdf           # Document for steps taken to make this project
+├── jupyter notebook/
+│   ├── heart-disease-prediction-selecting-best-ml-model.ipynb       # To Do EDA And Model Traning
+│   ├── experimentaion.ipynb       # Further Experimentation
+├── model/
+│   └── 02_heart_disease_model.pkl          # Trained ML model           
+├── static/
+│   └── styles.css       # Custom CSS for the web app
+├── templates/
+│   ├── index.html       # Home Page
+│   ├── form.html        # Prediction form page
+│   ├── result.html      # Results display page
+├── README.md            # Project Documentation
+└── requirements.txt     # Dependencies
+🛠️ Setup & Installation
+Clone the repository:
+
+git clone https://github.com/muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects-/tree/main/3.%20Disease%20Predition%20From%20Medical%20Data
+cd Disease-Prediction-From-Medical-Data
+Install required dependencies:
+
+pip install -r requirements.txt
+Run the Flask app:
+
+python app.py
+Open your browser and visit http://127.0.0.1:5000/.
+
+🤝 Contributing
+Feel free to submit a pull request if you'd like to improve this project. Contributions are welcome!
+
+Enjoy predicting heart health with this easy-to-use web app! 😊
+
+Code-Alpha-Machine-Learning-Internship-Projects/3. Disease Predition From Medical Data at main · muhammadadilnaeem/Code-Alpha-Machine-Learning-Internship-Projects
